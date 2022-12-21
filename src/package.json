@@ -1,0 +1,8 @@
+{
+    "name": "Test_Typescript_Project",
+    "version": "1.0.0",
+    "devDependencies": {
+        "@hitc/netsuite-types": "^2022.2.14",
+        "typescript": "^4.9.4"
+    }
+}
